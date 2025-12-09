@@ -1,4 +1,4 @@
-# Vanguard CX A/B Testing Project
+# Vanguard A/B Testing Project
 
 ## 📌 Overview
 The project focuses on analyzing an A/B test conducted by Vanguard’s Customer Experience (CX) team to evaluate whether a redesigned digital interface improves client process completion rates compared to the traditional interface.
