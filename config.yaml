@@ -1,0 +1,23 @@
+project:
+  name: Vanguard  A/B Testing
+  owner: Data Analytics Team
+  experiment_type: AB Test
+
+data:
+  raw_data_path: data/raw/
+  cleaned_data_path: data/cleaned/
+  output_path: data/output/
+  completion_flag_column: completed
+  group_column: test_group
+
+analysis:
+  hypothesis_test: two_proportion_z_test
+  significance_level: 0.05
+  metrics:
+    - conversion_rate
+    - step_completion_rate
+
+visualization:
+  tableau_dashboard_path: slides/tableau public/
+  funnel_chart: true
+  group_comparison_chart: true
