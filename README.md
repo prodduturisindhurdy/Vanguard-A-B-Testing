@@ -5,7 +5,6 @@ The project focuses on analyzing an A/B test conducted by Vanguard’s Customer 
 
 ## 🎯 Project Context
 - **Company:** Vanguard (US-based investment management firm)  
-- **Experiment Period:** March 15, 2017 – June 20, 2017  
 - **Control Group:** Clients using the traditional online process  
 - **Test Group:** Clients using the new digital interface with in-context prompts  
 - **Goal:** Determine if the new design leads to higher completion rates and improved user experience  
